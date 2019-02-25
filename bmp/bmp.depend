@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550604944 source:d:\fekt-best\bpc2e\ul1\bmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
