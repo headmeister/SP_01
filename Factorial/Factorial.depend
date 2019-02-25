@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550137977 source:d:\fekt-best\bpc2e\ul1\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
